@@ -19,33 +19,46 @@
 🌱 Areas of interest:
 
 
-
-
 🌐 Web Development (front-end and back-end)
+
 🤖 Artificial Intelligence
+
 🧠 Machine Learning
+
 📊 Data Science
+
 🖥️ Software Engineering
+
 📈 Operational Research
+
 🧮 Optimization
+
 ⚽ Sports
+
 💼 Startups
+
 💻 Data Structure
+
 📈 Performance Analysis in Sports
 
 
 😁 Hobbies:
 
 
-
-
 👨🏻‍💻 Programming
+
 🎮 Play Video Games
+
 📽️ Watch movies and series
+
 🎵 Listen to music
+
 💪🏻 Gym
+
 ⚽ Watch and play sports
+
 📚 Research and study about health, sports, history, music and philosophy
+
 🔍 Exploring new technologies and programming languages
 
 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
