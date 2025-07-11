@@ -10,7 +10,17 @@
 
 🔭 Data Science and Artificial Intelligence Undergraduate at Federal University of Paraíba (UFPB)
 
+
+
+
+
+
+
 🌱 Areas of interest:
+
+
+
+
 🌐 Web Development (front-end and back-end)
 🤖 Artificial Intelligence
 🧠 Machine Learning
@@ -25,6 +35,10 @@
 
 
 😁 Hobbies:
+
+
+
+
 👨🏻‍💻 Programming
 🎮 Play Video Games
 📽️ Watch movies and series
